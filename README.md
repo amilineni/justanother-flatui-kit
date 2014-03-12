@@ -3,6 +3,8 @@ justanother-flatui-kit
 
 A flat pixel-perfect UI kit
 
+![justanother-flatui-kit](https://github.com/teja-amil/justanother-flatui-kit/blob/master/justanother-flatui-kit.png?raw=true)
+
 
 The UI Kit contains following elements:
 
